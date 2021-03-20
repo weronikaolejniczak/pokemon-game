@@ -1,3 +1,3 @@
 export default {
-  maxPokemons: 10
+  maxPokemons: 9
 };

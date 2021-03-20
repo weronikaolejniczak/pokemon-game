@@ -2,7 +2,7 @@ import ApolloClient from "apollo-boost";
 import { ApolloProvider } from "@apollo/react-hooks";
 
 import PokemonsContainer from "containers/PokemonsContainer";
-import "App.css";
+import "./styles/index.scss";
 
 const App = () => {
   const client = new ApolloClient({
