@@ -1,8 +1,15 @@
 {
   "name": "pokemon-game",
   "version": "1.0.0",
-  "description": "",
-  "keywords": [],
+  "author": "Weronika Olejniczak",
+  "description": "Pokemon Game written with React and GraphQL",
+  "private": true,
+  "keywords": [
+    "react",
+    "reactjs",
+    "graphql",
+    "apollo"
+  ],
   "main": "src/index.js",
   "dependencies": {
     "@apollo/react-hooks": "4.0.0",
@@ -10,6 +17,7 @@
     "apollo-boost": "0.4.9",
     "graphql": "15.5.0",
     "graphql-tag": "2.11.0",
+    "node-sass": "^4.14.1",
     "react": "17.0.1",
     "react-dom": "17.0.1",
     "react-scripts": "4.0.0"
