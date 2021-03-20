@@ -1,2 +1,3 @@
-# pokemon-game
-Created with CodeSandbox
+# Pokemon Game
+
+Written with React and GraphQL.
